@@ -1,10 +1,10 @@
-The Markdown Resume
-===================
-
-My Resume:
+### My Resume:
 
 [PDF](./output/resume.pdf)
+
+
 [HTML](https://amiedeep.github.io/pandoc_resume/output/resume.html)
+<<<<<<< HEAD
 
 
 ### Instructions
@@ -113,3 +113,5 @@ executable, leading to errors like `Cannot find context.lua` or similar. It has 
 that running `mtxrun --generate`, ([suggested on texlive-2011-context-problem](
 https://tex.stackexchange.com/questions/53892/texlive-2011-context-problem)), can fix the
 issue.
+=======
+>>>>>>> b18f93f (remove other info)
