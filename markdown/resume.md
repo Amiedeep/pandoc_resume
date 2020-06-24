@@ -47,7 +47,6 @@ Technical Experience
 
 Proficient In:
 :   AWS, Java, CI/CD, Observability, Terraform, Linux/Unix, Problem Solving,
-
     Concourse CI
 
 Experienced With:
