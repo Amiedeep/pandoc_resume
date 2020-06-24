@@ -1,100 +1,62 @@
-Johnny Coder
+Amandeep Singh
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  DevOps Engineer with 5+ years of experience having a Backend Development background. I have worked on different
+>  automation tools to deliver reliable, highly available, and scalable infrastructure to clients. Experienced 
+>  Practitioner of CI/CD to enable one-click deployments.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2020 
+:   **Post Graduate Diploma, Information Security**; IGNOU (Delhi)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Project report title: Implementing security CICD*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2011-2015
+:   **B.Tech, Computer Science and Engineering**; Guru Nanak Dev University (Amritsar)
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**State Street:** (April 2019 - Working)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Implemented a complete CI/CD solution for an internal Application from scratch in ConcourseCI.
+* Enabled a team in Artefacts management and Deployment on Kubernetes.
+* Enabled a blockchain initiative from the DevOps perspective.
+* Implemented an Enterprise level observability stack including EFK, Prometheus-Grafana, Open Tracing running on 
+  Kubernetes. 
 
-* First item
+**ThoughtWorks** (Jan 2015 - April 2019)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
+* Helped in Automation of the calabash test suite for a major airline.
+* Worked on a betting platform product with a team of 30 developers, ~25 micro-services written in Ruby on Rails deployed
+  using Vagrant and Puppet.
+* Helped a hospitality business in creating a single platform for its franchise brands.
+* Worked on an internal platform for an investment bank to manage their Gift and Entertainment services.
+* Enabled a first-class blockchain platform[Vakt] from DevOps side.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   Please open my [Github](https://github.com/Amiedeep) profile to know about my side projects **Open Source
+    contributions**
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Proficient In:
+:   AWS, Java, CI/CD, Observability, Terraform, Linux/Unix, Problem Solving, Concourse CI
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Experienced With:
+:   **Backend:** Ruby on Rails, Spring boot, JUnit, Jasmine, Rspec, Cucumber
+:   **DevOps:**  Ruby, Golang, Docker, Kubernetes, TCP/IP stack, Information Security, GOCD.
+:   **Telemetry:** EFFK Stack, Open Tracing, Jaeger.
+:   **Others:**  Git, Data structures, Algorithms
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <Amandeep11121993@gmail.com> • +91-9803972479 • Senior DevOps Engineer\
+> Bangalore, India
