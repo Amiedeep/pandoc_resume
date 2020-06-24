@@ -15,10 +15,12 @@ Education
 2019-2020 
 :   **Post Graduate Diploma, Information Security**; IGNOU (Delhi)
 
-    *Project report title: Implementing security CICD*
+    **Project report:** Security implementation in CI/CD using Concourse*
 
 2011-2015
-:   **B.Tech, Computer Science and Engineering**; Guru Nanak Dev University (Amritsar)
+:   **B.Tech, Computer Science and Engineering**; Guru Nanak Dev University
+
+    (Amritsar)
 
 Experience
 ----------
@@ -43,10 +45,6 @@ Experience
 Technical Experience
 --------------------
 
-Open Source
-:   Please open my [Github](https://github.com/Amiedeep) profile to know about my side projects **Open Source
-    contributions**
-
 Proficient In:
 :   AWS, Java, CI/CD, Observability, Terraform, Linux/Unix, Problem Solving, Concourse CI
 
@@ -55,6 +53,10 @@ Experienced With:
 :   **DevOps:**  Ruby, Golang, Docker, Kubernetes, TCP/IP stack, Information Security, GOCD.
 :   **Telemetry:** EFFK Stack, Open Tracing, Jaeger.
 :   **Others:**  Git, Data structures, Algorithms
+
+Open Source
+:   Please visit my [Github](https://github.com/Amiedeep) profile for my side projects and **Open Source
+    contributions**
 
 ----
 
