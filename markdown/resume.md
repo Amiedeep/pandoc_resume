@@ -3,8 +3,8 @@ Amandeep Singh
 
 ----
 
-> Certified Kubernetes Administrator, and a DevOps specialist with the **test first mindset** and **8+ years** of experience in financial, trading, and non-profit sectors. 
-> Throughout my career, I was privileged to work with skilled people in multiple realms, and elite projects, 
+> Certified Kubernetes Administrator, and a DevOps specialist with the **Test first mindset** and **8+ years** of experience in the financial, trading, and non-profit sectors.
+> Throughout my career, I was privileged to work with skilled people in multiple realms, and elite projects,
 > including Delta Airlines, Football Pools, VAKT, Credit Suisse, et cetera.
 
 ----
@@ -12,39 +12,39 @@ Amandeep Singh
 Experience
 ----------
 
-**HelloFresh: ** (Sept 22 - Working) **Senior Platform Engineer**
+**HelloFresh:** (Sept 22 - Working) **Senior Platform Engineer**
 
 * IC on self-hosted GitHub Actions running on AWS Kubernetes cluster (EKS).
 * Active support for HelloTech on CICD in general.
-* Leading the E2E testing initiative for platform owned tools and code.
+* Led the E2E testing initiative for platform related tools and code.
 * Moving Artifactory from **manual UI-based setup to Terraform** deployed on EKS cluster using configured helm charts.
 * IC on standardized helm templates used across all services in HelloFresh.
 * Standardizing common CICD tasks across Hellotech at a central place.
 * IC on automating resource provisioning in GitHub using terraform IAC.
 
-**Oracle: ** (Jan 20 - July 22) **Principal DevOps Engineer**
+**Oracle:** (Jan 20 - July 22) **Principal DevOps Engineer**
 
 * Led the CI/CD team for multiple projects.
 * Moved the entire setup of CICD (Exadata DB automation) taking more than **12 hours to 1/2 hours asynchronous setup**.
 * Automating a comprehensive set of operations in the DB cloud for a faster feedback cycle.
 * IC on a JSON/YAML based input project to provision resources in the cloud (OCI).
-* Actively working with security on incident management from DB cloud team side.
+* Actively working with security on incident management from the DB cloud team side.
 * R&D on multiple new initiatives for the Cloud Database team.
 
-**State Street:** (April 2019 - Dec 2020) **Senior Associate - Assitant Manager**
+**State Street:** (April 2019 - Dec 2020) **Senior Associate - Assistant Manager**
 
 * Implemented a complete CI/CD solution for an internal Application from scratch using ConcourseCI considering developer productivity as the top priority.
 * Enabled a team in Artefacts management and Deployment on Kubernetes with sandbox environments for a faster feedback cycle.
 * Enabled a blockchain initiative at State Street from the DevOps perspective.
-* Implemented an Enterprise level observability stack including EFK, and Open Tracing running on 
-  Kubernetes. 
+* Implemented an Enterprise level observability stack including EFK, and Open Tracing running on
+  Kubernetes.
 
 **ThoughtWorks:** (Jan 2015 - April 2019) **Application Developer**
 
-* Helped in the automation of the calabash test suite for the [Delta](https://www.thoughtworks.com/clients/delta) airlines.
+* Helped in the automation of the calabash test suite for [Delta](https://www.thoughtworks.com/clients/delta) airlines.
 * Worked on a betting platform product with ~25 micro-services written in Ruby on Rails deployed
   using Vagrant and Puppet.
-* Worked on a hospitality business in creating their multiple UI's/single backend platform for all their franchise brands.
+* Worked on a hospitality business in creating multiple UI's/single backend platform for all their franchise brands.
 * Worked on an internal platform of an investment bank to manage their Gift and Entertainment Services.
 * Worked and enabled a first-class blockchain platform [Vakt](https://www.thoughtworks.com/clients/vakt) from the DevOps side.
 * Worked end-to-end on an internal Application [Ramp up] of Thoughworks starting from analysis till deployment.
@@ -62,8 +62,8 @@ Experienced With:
 :   **Others:**  Data structures, Algorithms
 
 Open Source
-:   Please visit my [Github](https://github.com/Amiedeep) profile for my side projects, and 
-    
+:   Please visit my [GitHub](https://github.com/Amiedeep) profile for my side projects, and
+
     **Open Source contributions**
 
 Certifications
@@ -79,7 +79,7 @@ Certifications
 Education
 ---------
 
-2019-2020 
+2019-2020
 :   **Post Graduate Diploma, Information Security**; IGNOU (Delhi), India
 
     **Project title:** Security implementation in CI/CD using Concourse
