@@ -187,47 +187,8 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=2,
    ["realpage"]=1,
-   ["reference"]="education",
-   ["section"]=2,
-  },
-  ["titledata"]={
-   ["label"]="subsection",
-   ["title"]="Education",
-  },
- },
- {
-  ["metadata"]=9,
-  ["references"]={
-   ["internal"]=3,
-   ["order"]=1,
-   ["realpage"]=1,
-   ["section"]=2,
-  },
-  ["titledata"]={
-   ["title"]="2019-2020",
-  },
- },
- {
-  ["metadata"]=9,
-  ["references"]={
-   ["internal"]=4,
-   ["order"]=2,
-   ["realpage"]=1,
-   ["section"]=2,
-  },
-  ["titledata"]={
-   ["title"]="2011-2015",
-  },
- },
- {
-  ["metadata"]=7,
-  ["numberdata"]=10,
-  ["references"]={
-   ["block"]="bodypart",
-   ["internal"]=5,
-   ["realpage"]=1,
    ["reference"]="experience",
-   ["section"]=3,
+   ["section"]=2,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -236,13 +197,13 @@ utilitydata.structures.lists.collected={
  },
  {
   ["metadata"]=7,
-  ["numberdata"]=11,
+  ["numberdata"]=9,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=6,
+   ["internal"]=3,
    ["realpage"]=1,
    ["reference"]="technical-experience",
-   ["section"]=4,
+   ["section"]=3,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -250,19 +211,58 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=9,
+  ["metadata"]=10,
   ["references"]={
-   ["internal"]=7,
-   ["order"]=3,
+   ["internal"]=4,
+   ["order"]=1,
    ["realpage"]=1,
-   ["section"]=4,
+   ["section"]=3,
   },
   ["titledata"]={
    ["title"]="Proficient In:",
   },
  },
  {
-  ["metadata"]=9,
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=5,
+   ["order"]=2,
+   ["realpage"]=1,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="Experienced With:",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=6,
+   ["order"]=3,
+   ["realpage"]=1,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="Open Source",
+  },
+ },
+ {
+  ["metadata"]=7,
+  ["numberdata"]=11,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=7,
+   ["realpage"]=1,
+   ["reference"]="education",
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Education",
+  },
+ },
+ {
+  ["metadata"]=10,
   ["references"]={
    ["internal"]=8,
    ["order"]=4,
@@ -270,11 +270,11 @@ utilitydata.structures.lists.collected={
    ["section"]=4,
   },
   ["titledata"]={
-   ["title"]="Experienced With:",
+   ["title"]="2019-2020",
   },
  },
  {
-  ["metadata"]=9,
+  ["metadata"]=10,
   ["references"]={
    ["internal"]=9,
    ["order"]=5,
@@ -282,7 +282,7 @@ utilitydata.structures.lists.collected={
    ["section"]=4,
   },
   ["titledata"]={
-   ["title"]="Open Source",
+   ["title"]="2011-2015",
   },
  },
 }
@@ -317,7 +317,8 @@ if not utilitydata.structures then utilitydata.structures = { } end
 if not utilitydata.structures.references then utilitydata.structures.references = { } end
 
 utilitydata.structures.references.referred={
- { 2, 1 },
+ { 1, 1 },
+ { 2, 4 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -408,12 +409,6 @@ utilitydata.job.packed={
    ["set"]="all",
   },
   {
-   ["catcodes"]=8,
-   ["kind"]="construction",
-   ["level"]=4,
-   ["name"]="description",
-  },
-  {
    ["block"]="bodypart",
    ["conversionset"]="default",
    ["hidenumber"]=true,
@@ -421,6 +416,12 @@ utilitydata.job.packed={
    ["numbers"]=3,
    ["separatorset"]="default",
    ["set"]="all",
+  },
+  {
+   ["catcodes"]=8,
+   ["kind"]="construction",
+   ["level"]=4,
+   ["name"]="description",
   },
   {
    ["block"]="bodypart",
