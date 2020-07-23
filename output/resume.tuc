@@ -46,7 +46,7 @@ utilitydata.job.passes.collected={
   { 4, 0 },
  },
  ["itemgroup:itemize:2"]={
-  { 5, 0 },
+  { 6, 0 },
  },
 }
 
@@ -139,7 +139,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 4, 5 },
+  { 0, 4, 6 },
  },
  ["linenote"]={
   { 0 },
@@ -252,7 +252,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=7,
-   ["realpage"]=1,
+   ["realpage"]=2,
    ["reference"]="education",
    ["section"]=4,
   },
@@ -266,7 +266,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=8,
    ["order"]=4,
-   ["realpage"]=1,
+   ["realpage"]=2,
    ["section"]=4,
   },
   ["titledata"]={
