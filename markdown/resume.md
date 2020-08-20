@@ -25,7 +25,7 @@ Experience
 * Helped in Automation of the calabash test suite for the [Delta](https://www.thoughtworks.com/clients/delta) airlines.
 * Worked on a betting platform product with ~25 micro-services written in Ruby on Rails deployed
   using Vagrant and Puppet.
-* Worked a hospitality business in creating their multiple UI's/single backend platform for its all their franchise brands.
+* Worked on a hospitality business in creating their multiple UI's/single backend platform for all their franchise brands.
 * Worked on an internal platform of an investment bank to manage their Gift and Entertainment services.
 * Worked and enabled a first-class blockchain platform [Vakt](https://www.thoughtworks.com/clients/vakt) from DevOps side.
 * Worked end-to-end on an internal Application [Ramp up] of Thoughworks starting from analysis till deployment.
