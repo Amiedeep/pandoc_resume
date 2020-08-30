@@ -38,8 +38,8 @@ Proficient In:
     Concourse CI, Jaeger, Git
 
 Experienced With:
-:   **Backend:** Ruby on Rails, Spring boot, JUnit, Jasmine, Rspec, Cucumber
-:   **DevOps:**  Java, Ruby, Golang, Docker, Kubernetes, Helm, TCP/IP stack, Information Security, GOCD.
+:   **Backend:** Java, Ruby on Rails, Spring boot, JUnit, Jasmine, Rspec, Cucumber
+:   **DevOps:**  Ruby, Golang, Docker, Kubernetes, Helm, TCP/IP stack, Information Security, GOCD.
 :   **Telemetry:** EFFK Stack, Open Tracing.
 :   **Others:**  Data structures, Algorithms
 
