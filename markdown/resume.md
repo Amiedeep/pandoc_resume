@@ -34,12 +34,12 @@ Technical Experience
 --------------------
 
 Proficient In:
-:   AWS, Java, CI/CD, Observability, Terraform, Linux/Unix, Problem Solving,
+:   AWS, CI/CD, Observability, Terraform, Linux/Unix, Problem Solving,
     Concourse CI, Jaeger, Git
 
 Experienced With:
 :   **Backend:** Ruby on Rails, Spring boot, JUnit, Jasmine, Rspec, Cucumber
-:   **DevOps:**  Ruby, Golang, Docker, Kubernetes, Helm, TCP/IP stack, Information Security, GOCD.
+:   **DevOps:**  Java, Ruby, Golang, Docker, Kubernetes, Helm, TCP/IP stack, Information Security, GOCD.
 :   **Telemetry:** EFFK Stack, Open Tracing.
 :   **Others:**  Data structures, Algorithms
 
