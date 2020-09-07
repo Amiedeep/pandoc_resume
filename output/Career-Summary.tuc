@@ -2,7 +2,7 @@ local utilitydata = { }
 
 utilitydata.comment={
  ["escape"]="[===[ ... ]===]",
- ["file"]="CV",
+ ["file"]="Career-Summary",
  ["format"]="cont-en",
  ["stamp"]="2019.03.21 21:39",
  ["version"]=1.31,
@@ -19,7 +19,7 @@ if not utilitydata.job.variables then utilitydata.job.variables = { } end
 
 utilitydata.job.variables.collected={
  ["macros"]={},
- ["randomseed"]=0.41166598023847,
+ ["randomseed"]=0.58251544414088,
  ["sectionblockorder"]={},
 }
 
@@ -43,10 +43,31 @@ if not utilitydata.job.passes then utilitydata.job.passes = { } end
 
 utilitydata.job.passes.collected={
  ["itemgroup:itemize:1"]={
-  { 4, 0 },
+  { 6, 0 },
  },
  ["itemgroup:itemize:2"]={
+  { 4, 0 },
+ },
+ ["itemgroup:itemize:3"]={
+  { 8, 0 },
+ },
+ ["itemgroup:itemize:4"]={
+  { 3, 0 },
+ },
+ ["itemgroup:itemize:5"]={
   { 5, 0 },
+ },
+ ["itemgroup:itemize:6"]={
+  { 5, 0 },
+ },
+ ["itemgroup:itemize:7"]={
+  { 3, 0 },
+ },
+ ["itemgroup:itemize:8"]={
+  { 2, 0 },
+ },
+ ["itemgroup:itemize:9"]={
+  { 3, 0 },
  },
 }
 
@@ -139,7 +160,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 4, 5 },
+  { 0, 6, 4, 8, 3, 5, 5, 3, 2, 3 },
  },
  ["linenote"]={
   { 0 },
@@ -148,16 +169,16 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["realpage"]={
-  { 2 },
+  { 4 },
  },
  ["subpage"]={
-  { 2 },
+  { 4 },
  },
  ["table"]={
   { 0 },
  },
  ["userpage"]={
-  { 2 },
+  { 4 },
  },
 }
 
@@ -187,12 +208,12 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=2,
    ["realpage"]=1,
-   ["reference"]="experience",
+   ["reference"]="career-summary",
    ["section"]=2,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Experience",
+   ["title"]="Career Summary",
   },
  },
  {
@@ -202,12 +223,12 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=3,
    ["realpage"]=1,
-   ["reference"]="technical-experience",
+   ["reference"]="state-street-april-2019---working",
    ["section"]=3,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Technical Experience",
+   ["title"]="State Street (April 2019 - Working)",
   },
  },
  {
@@ -219,7 +240,7 @@ utilitydata.structures.lists.collected={
    ["section"]=3,
   },
   ["titledata"]={
-   ["title"]="Proficient In:",
+   ["title"]="{\\bf Tech Stack:}",
   },
  },
  {
@@ -231,7 +252,7 @@ utilitydata.structures.lists.collected={
    ["section"]=3,
   },
   ["titledata"]={
-   ["title"]="Experienced With:",
+   ["title"]="{\\bf Alpha}",
   },
  },
  {
@@ -243,7 +264,19 @@ utilitydata.structures.lists.collected={
    ["section"]=3,
   },
   ["titledata"]={
-   ["title"]="Open Source",
+   ["title"]="{\\bf DLT}",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=7,
+   ["order"]=4,
+   ["realpage"]=1,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="{\\bf OMNIA: DBaaS}",
   },
  },
  {
@@ -251,26 +284,14 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=11,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=7,
-   ["realpage"]=1,
-   ["reference"]="education",
+   ["internal"]=8,
+   ["realpage"]=2,
+   ["reference"]="thoughtworks-jan-2019---april-2019",
    ["section"]=4,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Education",
-  },
- },
- {
-  ["metadata"]=10,
-  ["references"]={
-   ["internal"]=8,
-   ["order"]=4,
-   ["realpage"]=1,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="2019-2020",
+   ["title"]="ThoughtWorks (Jan 2019 - April 2019)",
   },
  },
  {
@@ -282,7 +303,103 @@ utilitydata.structures.lists.collected={
    ["section"]=4,
   },
   ["titledata"]={
-   ["title"]="2011-2015",
+   ["title"]="{\\bf Tech Stack:}",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=10,
+   ["order"]=6,
+   ["realpage"]=2,
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["title"]="{\\bf VAKT}",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=11,
+   ["order"]=7,
+   ["realpage"]=2,
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["title"]="{\\bf Banking Domain}",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=12,
+   ["order"]=8,
+   ["realpage"]=3,
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["title"]="{\\bf Hospitality Domain}",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=13,
+   ["order"]=9,
+   ["realpage"]=3,
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["title"]="{\\bf ThoughtWorks Employees Application}",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=14,
+   ["order"]=10,
+   ["realpage"]=3,
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["title"]="{\\bf ThoughtWorks University}",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=15,
+   ["order"]=11,
+   ["realpage"]=3,
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["title"]="{\\bf Delta Airlines}",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=16,
+   ["order"]=12,
+   ["realpage"]=3,
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["title"]="{\\bf Betting platform}",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=17,
+   ["order"]=13,
+   ["realpage"]=4,
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["title"]="{\\bf Open Source and self-learning projects}",
   },
  },
 }
@@ -305,6 +422,20 @@ utilitydata.structures.pages.collected={
   ["prefixdata"]=13,
   ["state"]="start",
  },
+ {
+  ["block"]="bodypart",
+  ["number"]=3,
+  ["numberdata"]=12,
+  ["prefixdata"]=13,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=4,
+  ["numberdata"]=12,
+  ["prefixdata"]=13,
+  ["state"]="start",
+ },
 }
 
 if not utilitydata.structures then utilitydata.structures = { } end
@@ -317,8 +448,8 @@ if not utilitydata.structures then utilitydata.structures = { } end
 if not utilitydata.structures.references then utilitydata.structures.references = { } end
 
 utilitydata.structures.references.referred={
- { 1, 1 },
- { 2, 4 },
+ { 3, 1 },
+ { 4, 2 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
