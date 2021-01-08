@@ -13,8 +13,10 @@ RUN apt-get update && \
     wget \
     context \
     && rm -rf /var/lib/apt/lists/*
-RUN wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.deb
-RUN dpkg -i pandoc-2.2.1-1-amd64.deb  && rm pandoc-*.deb
+# RUN wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.deb
+RUN wget https://github.com/jgm/pandoc/archive/2.11.3.2.tar.gz
+RUN tar xvzf 2.11.3.2.tar.gz --strip-components 1 
+# RUN dpkg -i pandoc-2.2.1-1-amd64.deb  && rm pandoc-*.deb
 #Cleanup to reduce container size
 RUN apt-get remove -y wget && \ 
     apt-get autoclean && \
