@@ -12,7 +12,9 @@ Amandeep Singh
 Experience
 ----------
 
-**State Street:** (April 2019 - Working)
+**Oracle** (Jan 2020 - Working) 
+
+**State Street:** (April 2019 - Dec 2020) 
 
 * Implemented a complete CI/CD solution for an internal Application from scratch using ConcourseCI.
 * Enabled a team in Artefacts management and Deployment on Kubernetes.
@@ -20,7 +22,7 @@ Experience
 * Implemented an Enterprise level observability stack including EFK, Prometheus-Grafana, Open Tracing running on 
   Kubernetes. 
 
-**ThoughtWorks** (Jan 2015 - April 2019)
+**ThoughtWorks:** (Jan 2015 - April 2019) 
 
 * Helped in Automation of the calabash test suite for the [Delta](https://www.thoughtworks.com/clients/delta) airlines.
 * Worked on a betting platform product with ~25 micro-services written in Ruby on Rails deployed
@@ -49,6 +51,16 @@ Open Source
     **Open Source contributions**
 
 
+Certifications
+---------
+
+2020-2023
+:   **Certified kubernetes Administrator**; Linux Foundation
+
+    **Credentials:** LF-ipxdcfqgi3
+
+----
+
 Education
 ---------
 
@@ -62,5 +74,5 @@ Education
 
 ----
 
-> <Amandeep11121993@gmail.com> • +91-9803972479 • Senior DevOps Engineer\
+> <Amandeep11121993@gmail.com> • +91-9803972479 • Principal DevOps Engineer\
 > Bangalore, India
