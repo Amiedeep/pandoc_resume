@@ -15,7 +15,7 @@ Experience
 **Oracle: ** (Jan 20 - Working) **Principal DevOps Engineer**
 
 * Leading the CI/CD team for multiple projects.
-* Active contributer to a backend project creating/configuring resources in the cloud (OCI).
+* Active contributer to backend projects creating/configuring resources in the cloud (OCI).
 * R&D on multiple new initiatives for the Cloud Database team.
 
 **State Street:** (April 2019 - Dec 2020) **Senior Associate - Assitant Manager**
@@ -43,7 +43,7 @@ Proficient In:
 :   Cloud, Kubernetes, CI/CD, Observability, Linux/Unix, Problem Solving, Jaeger, Git
 
 Experienced With:
-:   **Backend:** Java, Ruby on Rails, Spring boot, JUnit, Jasmine, Rspec, Cucumber
+:   **Backend:** Java, Ruby on Rails, Spring boot, JUnit, Jasmine, Rspec, pytest, Cucumber
 :   **DevOps:**  Ruby, Golang, Python, Jenkins, Terraform, Docker, Helm, TCP/IP stack, Information Security, Concourse CI, GOCD.
 :   **Telemetry:** EFFK Stack, Open Tracing.
 :   **Others:**  Data structures, Algorithms
