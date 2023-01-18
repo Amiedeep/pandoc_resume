@@ -2,7 +2,7 @@ local utilitydata = { }
 
 utilitydata.comment={
  ["escape"]="[===[ ... ]===]",
- ["file"]="Career-Summary",
+ ["file"]="main",
  ["format"]="cont-en",
  ["stamp"]="2019.03.21 21:39",
  ["version"]=1.31,
@@ -19,7 +19,7 @@ if not utilitydata.job.variables then utilitydata.job.variables = { } end
 
 utilitydata.job.variables.collected={
  ["macros"]={},
- ["randomseed"]=0.87587271817029,
+ ["randomseed"]=0.37135400669649,
  ["sectionblockorder"]={},
 }
 
@@ -43,30 +43,13 @@ if not utilitydata.job.passes then utilitydata.job.passes = { } end
 
 utilitydata.job.passes.collected={
  ["itemgroup:itemize:1"]={
-  { 6, 0 },
- },
- ["itemgroup:itemize:2"]={
-  { 4, 0 },
- },
- ["itemgroup:itemize:3"]={
-  { 8, 0 },
- },
- ["itemgroup:itemize:4"]={
-  { 3, 0 },
- },
- ["itemgroup:itemize:5"]={
-  { 5, 0 },
- },
- ["itemgroup:itemize:6"]={
-  { 5, 0 },
- },
- ["itemgroup:itemize:7"]={
-  { 3, 0 },
- },
- ["itemgroup:itemize:8"]={
   { 2, 0 },
  },
- ["itemgroup:itemize:9"]={
+ ["itemgroup:itemize:2"]={
+  { 2, 0 },
+ },
+ ["itemgroup:itemize:3"]={
+  { 3, 0 },
   { 3, 0 },
  },
 }
@@ -129,6 +112,15 @@ utilitydata.structures.sections.collected={
   ["separatorset"]="default",
   ["set"]="all",
  },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=5,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
 }
 
 if not utilitydata.structures then utilitydata.structures = { } end
@@ -163,7 +155,8 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 6, 4, 8, 3, 5, 5, 3, 2, 3 },
+  { 0, 2, 2, 3 },
+  { 0, 3, 0, 0 },
  },
  ["linenote"]={
   { 0 },
@@ -172,16 +165,16 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["realpage"]={
-  { 4 },
+  { 2 },
  },
  ["subpage"]={
-  { 4 },
+  { 2 },
  },
  ["table"]={
   { 0 },
  },
  ["userpage"]={
-  { 4 },
+  { 2 },
  },
 }
 
@@ -190,111 +183,111 @@ if not utilitydata.structures.lists then utilitydata.structures.lists = { } end
 
 utilitydata.structures.lists.collected={
  {
-  ["metadata"]=5,
-  ["numberdata"]=6,
+  ["metadata"]=6,
+  ["numberdata"]=7,
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=1,
    ["realpage"]=1,
-   ["reference"]="amandeep-singh",
+   ["reference"]="johnny-coder",
    ["section"]=1,
   },
   ["titledata"]={
    ["label"]="section",
-   ["title"]="Amandeep Singh",
+   ["title"]="Johnny Coder",
   },
  },
  {
-  ["metadata"]=7,
-  ["numberdata"]=8,
+  ["metadata"]=8,
+  ["numberdata"]=9,
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=2,
    ["realpage"]=1,
-   ["reference"]="career-summary",
+   ["reference"]="education",
    ["section"]=2,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Career Summary",
+   ["title"]="Education",
   },
  },
  {
-  ["metadata"]=7,
-  ["numberdata"]=9,
+  ["metadata"]=10,
   ["references"]={
-   ["block"]="bodypart",
    ["internal"]=3,
+   ["order"]=1,
    ["realpage"]=1,
-   ["reference"]="state-street-april-2019---working",
-   ["section"]=3,
+   ["section"]=2,
   },
   ["titledata"]={
-   ["label"]="subsection",
-   ["title"]="State Street (April 2019 - Working)",
+   ["title"]="2010-2014 (expected)",
   },
  },
  {
   ["metadata"]=10,
   ["references"]={
    ["internal"]=4,
-   ["order"]=1,
-   ["realpage"]=1,
-   ["section"]=3,
-  },
-  ["titledata"]={
-   ["title"]="{\\bf Tech Stack:}",
-  },
- },
- {
-  ["metadata"]=10,
-  ["references"]={
-   ["internal"]=5,
    ["order"]=2,
    ["realpage"]=1,
-   ["section"]=3,
+   ["section"]=2,
   },
   ["titledata"]={
-   ["title"]="{\\bf Alpha}",
+   ["title"]="2007-2010",
   },
  },
  {
-  ["metadata"]=10,
+  ["metadata"]=8,
+  ["numberdata"]=11,
   ["references"]={
-   ["internal"]=6,
-   ["order"]=3,
+   ["block"]="bodypart",
+   ["internal"]=5,
    ["realpage"]=1,
+   ["reference"]="experience",
    ["section"]=3,
   },
   ["titledata"]={
-   ["title"]="{\\bf DLT}",
+   ["label"]="subsection",
+   ["title"]="Experience",
+  },
+ },
+ {
+  ["metadata"]=8,
+  ["numberdata"]=12,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=6,
+   ["realpage"]=1,
+   ["reference"]="technical-experience",
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Technical Experience",
   },
  },
  {
   ["metadata"]=10,
   ["references"]={
    ["internal"]=7,
-   ["order"]=4,
+   ["order"]=3,
    ["realpage"]=1,
-   ["section"]=3,
-  },
-  ["titledata"]={
-   ["title"]="{\\bf OMNIA: DBaaS}",
-  },
- },
- {
-  ["metadata"]=7,
-  ["numberdata"]=11,
-  ["references"]={
-   ["block"]="bodypart",
-   ["internal"]=8,
-   ["realpage"]=2,
-   ["reference"]="thoughtworks-jan-2019---april-2019",
    ["section"]=4,
   },
   ["titledata"]={
-   ["label"]="subsection",
-   ["title"]="ThoughtWorks (Jan 2019 - April 2019)",
+   ["title"]="My Cool Side Project",
+  },
+ },
+ {
+  ["metadata"]=10,
+  ["references"]={
+   ["internal"]=8,
+   ["order"]=4,
+   ["realpage"]=1,
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["title"]="Open Source",
   },
  },
  {
@@ -302,107 +295,26 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=9,
    ["order"]=5,
-   ["realpage"]=2,
+   ["realpage"]=1,
    ["section"]=4,
   },
   ["titledata"]={
-   ["title"]="{\\bf Tech Stack:}",
+   ["title"]="Programming Languages",
   },
  },
  {
-  ["metadata"]=10,
+  ["metadata"]=8,
+  ["numberdata"]=13,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=10,
-   ["order"]=6,
    ["realpage"]=2,
-   ["section"]=4,
+   ["reference"]="extra-section-call-it-whatever-you-want",
+   ["section"]=5,
   },
   ["titledata"]={
-   ["title"]="{\\bf VAKT}",
-  },
- },
- {
-  ["metadata"]=10,
-  ["references"]={
-   ["internal"]=11,
-   ["order"]=7,
-   ["realpage"]=2,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="{\\bf Banking Domain}",
-  },
- },
- {
-  ["metadata"]=10,
-  ["references"]={
-   ["internal"]=12,
-   ["order"]=8,
-   ["realpage"]=3,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="{\\bf Hospitality Domain}",
-  },
- },
- {
-  ["metadata"]=10,
-  ["references"]={
-   ["internal"]=13,
-   ["order"]=9,
-   ["realpage"]=3,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="{\\bf ThoughtWorks Employees Application}",
-  },
- },
- {
-  ["metadata"]=10,
-  ["references"]={
-   ["internal"]=14,
-   ["order"]=10,
-   ["realpage"]=3,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="{\\bf ThoughtWorks University}",
-  },
- },
- {
-  ["metadata"]=10,
-  ["references"]={
-   ["internal"]=15,
-   ["order"]=11,
-   ["realpage"]=3,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="{\\bf Delta Airlines}",
-  },
- },
- {
-  ["metadata"]=10,
-  ["references"]={
-   ["internal"]=16,
-   ["order"]=12,
-   ["realpage"]=3,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="{\\bf Betting platform}",
-  },
- },
- {
-  ["metadata"]=10,
-  ["references"]={
-   ["internal"]=17,
-   ["order"]=13,
-   ["realpage"]=4,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="{\\bf Open Source and self-learning projects}",
+   ["label"]="subsection",
+   ["title"]="Extra Section, Call it Whatever You Want",
   },
  },
 }
@@ -414,29 +326,15 @@ utilitydata.structures.pages.collected={
  {
   ["block"]="bodypart",
   ["number"]=1,
-  ["numberdata"]=12,
-  ["prefixdata"]=13,
+  ["numberdata"]=14,
+  ["prefixdata"]=15,
   ["state"]="start",
  },
  {
   ["block"]="bodypart",
   ["number"]=2,
-  ["numberdata"]=12,
-  ["prefixdata"]=13,
-  ["state"]="start",
- },
- {
-  ["block"]="bodypart",
-  ["number"]=3,
-  ["numberdata"]=12,
-  ["prefixdata"]=13,
-  ["state"]="start",
- },
- {
-  ["block"]="bodypart",
-  ["number"]=4,
-  ["numberdata"]=12,
-  ["prefixdata"]=13,
+  ["numberdata"]=14,
+  ["prefixdata"]=15,
   ["state"]="start",
  },
 }
@@ -451,8 +349,8 @@ if not utilitydata.structures then utilitydata.structures = { } end
 if not utilitydata.structures.references then utilitydata.structures.references = { } end
 
 utilitydata.structures.references.referred={
- { 3, 1 },
- { 4, 2 },
+ { 1, 1 },
+ { 2, 3 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -508,6 +406,7 @@ utilitydata.job.packed={
   { 0, 0, 1, 1 },
   { 0, 0, 1, 2 },
   { 0, 0, 1, 3 },
+  { 0, 0, 1, 4 },
   {
    ["catcodes"]=8,
    ["coding"]="tex",
@@ -543,15 +442,6 @@ utilitydata.job.packed={
    ["set"]="all",
   },
   {
-   ["block"]="bodypart",
-   ["conversionset"]="default",
-   ["hidenumber"]=true,
-   ["language"]="en",
-   ["numbers"]=3,
-   ["separatorset"]="default",
-   ["set"]="all",
-  },
-  {
    ["catcodes"]=8,
    ["kind"]="construction",
    ["level"]=4,
@@ -562,7 +452,25 @@ utilitydata.job.packed={
    ["conversionset"]="default",
    ["hidenumber"]=true,
    ["language"]="en",
+   ["numbers"]=3,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
    ["numbers"]=4,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=5,
    ["separatorset"]="default",
    ["set"]="all",
   },
