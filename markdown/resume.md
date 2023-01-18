@@ -3,48 +3,61 @@ Amandeep Singh
 
 ----
 
->  Certified Kubernetes Administrator, DevOps specialist with ample experience in financial, trading, and non-profit sectors. 
+> Certified Kubernetes Administrator, and a DevOps specialist with the **test first mindset** and **8+ years** of experience in financial, trading, and non-profit sectors. 
 > Throughout my career, I was privileged to work with skilled people in multiple realms, and elite projects, 
-> including Delta Airlines, Football   Pools, VAKT, Credit Suisse, et cetera.
+> including Delta Airlines, Football Pools, VAKT, Credit Suisse, et cetera.
 
 ----
 
 Experience
 ----------
 
-**Oracle: ** (Jan 20 - Working) **Principal DevOps Engineer**
+**HelloFresh: ** (Sept 22 - Working) **Senior Platform Engineer**
 
-* Leading the CI/CD team for multiple projects.
-* Active contributer to backend projects creating/configuring resources in the cloud (OCI).
+* IC on self-hosted GitHub Actions running on AWS Kubernetes cluster (EKS).
+* Active support for HelloTech on CICD in general.
+* Leading the E2E testing initiative for platform owned tools and code.
+* Moving Artifactory from **manual UI-based setup to Terraform** deployed on EKS cluster using configured helm charts.
+* IC on standardized helm templates used across all services in HelloFresh.
+* Standardizing common CICD tasks across Hellotech at a central place.
+* IC on automating resource provisioning in GitHub using terraform IAC.
+
+**Oracle: ** (Jan 20 - July 22) **Principal DevOps Engineer**
+
+* Led the CI/CD team for multiple projects.
+* Moved the entire setup of CICD (Exadata DB automation) taking more than **12 hours to 1/2 hours asynchronous setup**.
+* Automating a comprehensive set of operations in the DB cloud for a faster feedback cycle.
+* IC on a JSON/YAML based input project to provision resources in the cloud (OCI).
+* Actively working with security on incident management from DB cloud team side.
 * R&D on multiple new initiatives for the Cloud Database team.
 
 **State Street:** (April 2019 - Dec 2020) **Senior Associate - Assitant Manager**
 
-* Implemented a complete CI/CD solution for an internal Application from scratch using ConcourseCI.
-* Enabled a team in Artefacts management and Deployment on Kubernetes.
+* Implemented a complete CI/CD solution for an internal Application from scratch using ConcourseCI considering developer productivity as the top priority.
+* Enabled a team in Artefacts management and Deployment on Kubernetes with sandbox environments for a faster feedback cycle.
 * Enabled a blockchain initiative at State Street from the DevOps perspective.
-* Implemented an Enterprise level observability stack including EFK, Prometheus-Grafana, Open Tracing running on 
+* Implemented an Enterprise level observability stack including EFK, and Open Tracing running on 
   Kubernetes. 
 
 **ThoughtWorks:** (Jan 2015 - April 2019) **Application Developer**
 
-* Helped in Automation of the calabash test suite for the [Delta](https://www.thoughtworks.com/clients/delta) airlines.
+* Helped in the automation of the calabash test suite for the [Delta](https://www.thoughtworks.com/clients/delta) airlines.
 * Worked on a betting platform product with ~25 micro-services written in Ruby on Rails deployed
   using Vagrant and Puppet.
 * Worked on a hospitality business in creating their multiple UI's/single backend platform for all their franchise brands.
-* Worked on an internal platform of an investment bank to manage their Gift and Entertainment services.
-* Worked and enabled a first-class blockchain platform [Vakt](https://www.thoughtworks.com/clients/vakt) from DevOps side.
+* Worked on an internal platform of an investment bank to manage their Gift and Entertainment Services.
+* Worked and enabled a first-class blockchain platform [Vakt](https://www.thoughtworks.com/clients/vakt) from the DevOps side.
 * Worked end-to-end on an internal Application [Ramp up] of Thoughworks starting from analysis till deployment.
 
 Technical Experience
 --------------------
 
 Proficient In:
-:   Cloud, Kubernetes, CI/CD, Observability, Linux/Unix, Problem Solving, Jaeger, Git
+:   Cloud, Kubernetes, CI/CD, Linux/Unix, Problem Solving, Git
 
 Experienced With:
 :   **Backend:** Java, Ruby on Rails, Spring boot, JUnit, Jasmine, Rspec, pytest, Cucumber
-:   **DevOps:**  Ruby, Golang, Python, Jenkins, Terraform, Docker, Helm, TCP/IP stack, Information Security, Concourse CI, GOCD.
+:   **DevOps:** Golang, Python, Jenkins, Terraform, Docker, Helm, TCP/IP stack, Information Security, Concourse CI, Github actions, GOCD, Observability, Jaeger.
 :   **Telemetry:** EFFK Stack, Open Tracing.
 :   **Others:**  Data structures, Algorithms
 
@@ -57,7 +70,7 @@ Certifications
 ---------
 
 2020-2023
-:   **Certified kubernetes Administrator**; Linux Foundation
+:   **Certified Kubernetes Administrator**; Linux Foundation
 
     **Credentials:** LF-ipxdcfqgi3
 
@@ -67,14 +80,14 @@ Education
 ---------
 
 2019-2020 
-:   **Post Graduate Diploma, Information Security**; IGNOU (Delhi)
+:   **Post Graduate Diploma, Information Security**; IGNOU (Delhi), India
 
     **Project title:** Security implementation in CI/CD using Concourse
 
 2011-2015
-:   **B.Tech, Computer Science and Engineering**; GNDU (Amritsar)
+:   **B.Tech, Computer Science and Engineering**; GNDU (Amritsar), India
 
 ----
 
-> <Amandeep11121993@gmail.com> • +91-9803972479 • Principal DevOps Engineer\
-> Bangalore, India
+> <Amandeep11121993@gmail.com> • +49-17685398154 • Senior Platform Engineer\
+> Berlin, Germany
