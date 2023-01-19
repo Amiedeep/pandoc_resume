@@ -3,13 +3,8 @@ Amandeep Singh
 
 ----
 
-<<<<<<< HEAD
 > Certified Kubernetes Administrator, and a DevOps specialist with the **Test first mindset** and **8+ years** of experience in the financial, trading, and non-profit sectors.
-> Throughout my career, I was privileged to work with skilled people in multiple realms, and elite projects,
-=======
-> Certified Kubernetes Administrator, and a DevOps specialist with the **Test first mindset** and **8+ years** of experience in the financial, trading, and non-profit sectors. 
 > Throughout my career, I was privileged to work with skilled people in multiple realms, and elite projects, 
->>>>>>> 95bd007 (grammar and typos)
 > including Delta Airlines, Football Pools, VAKT, Credit Suisse, et cetera.
 
 ----
@@ -67,9 +62,7 @@ Experienced With:
 :   **Others:**  Data structures, Algorithms
 
 Open Source
-:   Please visit my [GitHub](https://github.com/Amiedeep) profile for my side projects, and 
-    
->>>>>>> 95bd007 (grammar and typos)
+:   Please visit my [GitHub](https://github.com/Amiedeep) profile for my side projects, and  
     **Open Source contributions**
 
 Certifications
