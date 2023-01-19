@@ -4,33 +4,32 @@ RUN apk add make texlive
 
 ENV TEXMF /usr/share/texmf-dist
 
-ENV DEBIAN_FRONTEND="noninteractive"
-RUN apt-get update && \
-    apt-get install -y \
-    build-essential \
-    wget \
-    pandoc \
-    context \
-    && rm -rf /var/lib/apt/lists/*
-# RUN wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.deb
+COPY actions/entrypoint.sh /entrypoint.sh
+# ENV DEBIAN_FRONTEND="noninteractive"
+# RUN apt-get update && \
+#     apt-get install -y \
+#     build-essential \
+#     wget \
+#     context \
+#     && rm -rf /var/lib/apt/lists/*
+# # RUN wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.deb
 # RUN wget https://github.com/jgm/pandoc/archive/2.11.3.2.tar.gz
-# RUN tar xvzf 2.11.3.2.tar.gz --strip-components 1 -C /usr/local/
-# RUN dpkg -i pandoc-2.2.1-1-amd64.deb  && rm pandoc-*.deb
-#Cleanup to reduce container size
+# RUN tar xvzf 2.11.3.2.tar.gz --strip-components 1 
+# # RUN dpkg -i pandoc-2.2.1-1-amd64.deb  && rm pandoc-*.deb
+# #Cleanup to reduce container size
+# RUN apt-get remove -y wget && \ 
+#     apt-get autoclean && \
+#     apt-get clean
 
-RUN apt-get remove -y wget && \ 
-    apt-get autoclean && \
-    apt-get clean
+# ENV APP_NAME=resume
 
-ENV APP_NAME=resume
+# # before switching to user we need to set permission properly
+# # copy all files, except the ignored files from .dockerignore
+# COPY . $HOME/$APP_NAME/
+# COPY ./Makefile $HOME/$APP_NAME/
+# RUN chown -R app:app $HOME/*
 
-# before switching to user we need to set permission properly
-# copy all files, except the ignored files from .dockerignore
-COPY . $HOME/$APP_NAME/
-COPY ./Makefile $HOME/$APP_NAME/
-RUN chown -R app:app $HOME/*
+# USER app
+# WORKDIR $HOME/$APP_NAME
 
-USER app
-WORKDIR $HOME/$APP_NAME
-
-RUN make clean
+# RUN make clean
