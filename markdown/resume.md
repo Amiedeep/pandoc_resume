@@ -28,6 +28,7 @@ Experience
 * Moved the entire setup of CICD (Exadata DB automation) taking more than **12 hours to 1/2 hours asynchronous setup**.
 * Automating a comprehensive set of operations in the DB cloud for a faster feedback cycle.
 * IC on a JSON/YAML based input project to provision resources in the cloud (OCI).
+* Setup framework and onboard multiple existing/new projects with unit/integration testing.
 * Actively working with security on incident management from the DB cloud team side.
 * R&D on multiple new initiatives for the Cloud Database team.
 
