@@ -89,5 +89,11 @@ Education
 
 ----
 
+References & Recommendations
+---------
+Please check my [LinkendIn](https://www.linkedin.com/in/amiedeep/) profile for references and recommendations from my colleague.
+
+----
+
 > <Amandeep11121993@gmail.com> • +49-17685398154 • Senior Platform Engineer\
 > Berlin, Germany

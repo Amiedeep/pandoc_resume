@@ -123,6 +123,15 @@ utilitydata.structures.sections.collected={
   ["separatorset"]="default",
   ["set"]="all",
  },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=6,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
 }
 
 if not utilitydata.structures then utilitydata.structures = { } end
@@ -184,8 +193,8 @@ if not utilitydata.structures.lists then utilitydata.structures.lists = { } end
 
 utilitydata.structures.lists.collected={
  {
-  ["metadata"]=6,
-  ["numberdata"]=7,
+  ["metadata"]=7,
+  ["numberdata"]=8,
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=1,
@@ -199,8 +208,8 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=8,
-  ["numberdata"]=9,
+  ["metadata"]=9,
+  ["numberdata"]=10,
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=2,
@@ -214,8 +223,8 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=8,
-  ["numberdata"]=10,
+  ["metadata"]=9,
+  ["numberdata"]=11,
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=3,
@@ -229,7 +238,7 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=11,
+  ["metadata"]=12,
   ["references"]={
    ["internal"]=4,
    ["order"]=1,
@@ -241,7 +250,7 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=11,
+  ["metadata"]=12,
   ["references"]={
    ["internal"]=5,
    ["order"]=2,
@@ -253,7 +262,7 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=11,
+  ["metadata"]=12,
   ["references"]={
    ["internal"]=6,
    ["order"]=3,
@@ -265,8 +274,8 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=8,
-  ["numberdata"]=12,
+  ["metadata"]=9,
+  ["numberdata"]=13,
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=7,
@@ -280,7 +289,7 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=11,
+  ["metadata"]=12,
   ["references"]={
    ["internal"]=8,
    ["order"]=4,
@@ -292,8 +301,8 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=8,
-  ["numberdata"]=13,
+  ["metadata"]=9,
+  ["numberdata"]=14,
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=9,
@@ -307,7 +316,7 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=11,
+  ["metadata"]=12,
   ["references"]={
    ["internal"]=10,
    ["order"]=5,
@@ -319,7 +328,7 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=11,
+  ["metadata"]=12,
   ["references"]={
    ["internal"]=11,
    ["order"]=6,
@@ -328,6 +337,21 @@ utilitydata.structures.lists.collected={
   },
   ["titledata"]={
    ["title"]="2011-2015",
+  },
+ },
+ {
+  ["metadata"]=9,
+  ["numberdata"]=15,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=12,
+   ["realpage"]=2,
+   ["reference"]="references-recommendations",
+   ["section"]=6,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="References & Recommendations",
   },
  },
 }
@@ -339,15 +363,15 @@ utilitydata.structures.pages.collected={
  {
   ["block"]="bodypart",
   ["number"]=1,
-  ["numberdata"]=14,
-  ["prefixdata"]=15,
+  ["numberdata"]=16,
+  ["prefixdata"]=17,
   ["state"]="start",
  },
  {
   ["block"]="bodypart",
   ["number"]=2,
-  ["numberdata"]=14,
-  ["prefixdata"]=15,
+  ["numberdata"]=16,
+  ["prefixdata"]=17,
   ["state"]="start",
  },
 }
@@ -420,6 +444,7 @@ utilitydata.job.packed={
   { 0, 0, 1, 2 },
   { 0, 0, 1, 3 },
   { 0, 0, 1, 4 },
+  { 0, 0, 1, 5 },
   {
    ["catcodes"]=8,
    ["coding"]="tex",
@@ -484,6 +509,15 @@ utilitydata.job.packed={
    ["hidenumber"]=true,
    ["language"]="en",
    ["numbers"]=5,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=6,
    ["separatorset"]="default",
    ["set"]="all",
   },
