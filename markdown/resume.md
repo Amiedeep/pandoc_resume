@@ -14,9 +14,9 @@ Experience
 
 **Getir:** (Mar 23 - Working) **Senior Platform Engineer** (Golang as first language)
 
-* Leading CICD (Bitbucket, Spinnaker -> ArgoCD) and Engineering Experience team in Getir.
-* Led fixing and redesigning internal ephemeral environment creation tool (Bundler).
-* Maintaining Service catalog (Backstage) for ~1000 engineers in the org.
+* Led CICD (Bitbucket, Spinnaker -> ArgoCD) and Engineering Experience team in Getir.
+* Led fixing and redesigning internal ephemeral environment creation tool (Bundler) from **1+ hour to 10 minutes**.
+* IC and maintenance on Service catalog (Backstage) for **~1000** engineers in the org.
 * Active support for the Product teams in Getir using inhouse built tooling (Piebot).
 * Led multi account initiative in the Org.
 
@@ -66,7 +66,7 @@ Proficient In:
 
 Experienced With:
 :   **Backend:** Java, Ruby on Rails, Spring boot, JUnit, Jasmine, Rspec, pytest, Cucumber
-:   **DevOps:** Golang, Python, Jenkins, Terraform, Docker, Helm, TCP/IP stack, Information Security, Concourse CI, Github actions, GOCD, Observability, Jaeger.
+:   **DevOps:** Golang, Python, Jenkins, Terraform, Docker, Helm, TCP/IP stack, Information Security, Concourse CI, Github actions, GOCD, Observability, Jaeger, Vault, Backstage, bitbucket pipelines, etc.
 :   **Telemetry:** EFFK Stack, Open Tracing.
 :   **Others:**  Data structures, Algorithms
 
