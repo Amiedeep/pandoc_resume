@@ -12,7 +12,15 @@ Amandeep Singh
 Experience
 ----------
 
-**HelloFresh:** (Sept 22 - Working) **Senior Platform Engineer**
+**Getir:** (Mar 23 - Working) **Senior Platform Engineer** (Golang as first language)
+
+* Leading CICD (Bitbucket, Spinnaker -> ArgoCD) and Engineering Experience team in Getir.
+* Led fixing and redesigning internal ephemeral environment creation tool (Bundler).
+* Maintaining Service catalog (Backstage) for ~1000 engineers in the org.
+* Active support for the Product teams in Getir using inhouse built tooling (Piebot).
+* Led multi account initiative in the Org.
+
+**HelloFresh:** (Sept 22 - Feb 23) **Senior Platform Engineer** (Golang as first language)
 
 * IC on self-hosted GitHub Actions running on AWS Kubernetes cluster (EKS).
 * Active support for HelloTech on CICD in general.
@@ -22,7 +30,7 @@ Experience
 * Standardizing common CICD tasks across Hellotech at a central place.
 * IC on automating resource provisioning in GitHub using terraform IAC.
 
-**Oracle:** (Jan 20 - July 22) **Principal DevOps Engineer**
+**Oracle:** (Jan 20 - July 22) **Principal DevOps Engineer** (Python, Golang for competitive programming)
 
 * Led the CI/CD team for multiple projects.
 * Moved the entire setup of CICD (Exadata DB automation) taking more than **12 hours to 1/2 hours asynchronous setup**.
@@ -32,7 +40,7 @@ Experience
 * Actively working with security on incident management from the DB cloud team side.
 * R&D on multiple new initiatives for the Cloud Database team.
 
-**State Street:** (April 2019 - Dec 2020) **Senior Associate - Assistant Manager**
+**State Street:** (April 2019 - Dec 2020) **Senior Associate - Assistant Manager** (Golang as first language)
 
 * Implemented a complete CI/CD solution for an internal Application from scratch using ConcourseCI considering developer productivity as the top priority.
 * Enabled a team in Artefacts management and Deployment on Kubernetes with sandbox environments for a faster feedback cycle.
@@ -40,7 +48,7 @@ Experience
 * Implemented an Enterprise level observability stack including EFK, and Open Tracing running on
   Kubernetes.
 
-**ThoughtWorks:** (Jan 2015 - April 2019) **Application Developer**
+**ThoughtWorks:** (Jan 2015 - April 2019) **Application Developer** (Ruby, Java as first language)
 
 * Helped in the automation of the calabash test suite for [Delta](https://www.thoughtworks.com/clients/delta) airlines.
 * Worked on a betting platform product with ~25 micro-services written in Ruby on Rails deployed
