@@ -14,11 +14,11 @@ Experience
 
 **Getir:** (Mar 23 - Working) **Senior Platform Engineer** (Golang as first language)
 
-* Led CICD (Bitbucket, Spinnaker -> ArgoCD) and Engineering Experience team in Getir.
+* Leading CICD (Bitbucket, Spinnaker -> ArgoCD) and Engineering Experience team in Getir.
 * Led fixing and redesigning internal ephemeral environment creation tool (Bundler) from **1+ hour to 10 minutes**.
 * IC and maintenance on Service catalog (Backstage) for **~1000** engineers in the org.
 * Active support for the Product teams in Getir using inhouse built tooling (Piebot).
-* Led multi account initiative in the Org.
+* Leading multi account initiative in the Org.
 
 **HelloFresh:** (Sept 22 - Feb 23) **Senior Platform Engineer** (Golang as first language)
 
