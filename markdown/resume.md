@@ -3,7 +3,7 @@ Amandeep Singh
 
 ----
 
-> Certified Kubernetes Administrator, and a DevOps specialist with the **Test first mindset** and **8+ years** of experience in the financial, trading, and non-profit sectors.
+> Certified Kubernetes Administrator, and a DevOps specialist with the **Test first mindset** and **9+ years** of experience in various sectors.
 > Throughout my career, I was privileged to work with skilled people in multiple realms, and elite projects, 
 > including Delta Airlines, Football Pools, VAKT, Credit Suisse, et cetera.
 
@@ -14,11 +14,12 @@ Experience
 
 **Getir:** (Mar 23 - Working) **Senior Platform Engineer** (Golang as first language)
 
-* Leading CICD (Bitbucket, Spinnaker -> ArgoCD) and Engineering Experience team in Getir.
+* IC on AWS infrastructure including EKS.
+* Led CICD (Bitbucket, Spinnaker -> ArgoCD, **~800** services) and Engineering Experience team in Getir.
 * Led fixing and redesigning internal ephemeral environment creation tool (Bundler) from **1+ hour to 10 minutes**.
 * IC and maintenance on Service catalog (Backstage) for **~1000** engineers in the org.
 * Active support for the Product teams in Getir using inhouse built tooling (Piebot).
-* Leading multi account initiative in the Org.
+* Led multi account initiative in the Org.
 
 **HelloFresh:** (Sept 22 - Feb 23) **Senior Platform Engineer** (Golang as first language)
 
