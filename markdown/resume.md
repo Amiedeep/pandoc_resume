@@ -18,6 +18,7 @@ Experience
 * Led CICD (Bitbucket, Spinnaker -> ArgoCD, **~800** services) and Engineering Experience team in Getir.
 * Led fixing and redesigning internal ephemeral environment creation tool (Bundler) from **1+ hour to 10 minutes**.
 * IC and maintenance on Service catalog (Backstage) for **~1000** engineers in the org.
+* Participated in a **OpenAI hackathon** in Turkey.
 * Active support for the Product teams in Getir using inhouse built tooling (Piebot).
 * Led multi account initiative in the Org.
 
@@ -26,9 +27,6 @@ Experience
 * IC on self-hosted GitHub Actions running on AWS Kubernetes cluster (EKS).
 * Active support for HelloTech on CICD in general.
 * Led the E2E testing initiative for platform related tools and code.
-* Moving Artifactory from **manual UI-based setup to Terraform** deployed on EKS cluster using configured helm charts.
-* IC on standardized helm templates used across all services in HelloFresh.
-* Standardizing common CICD tasks across Hellotech at a central place.
 * IC on automating resource provisioning in GitHub using terraform IAC.
 
 **Oracle:** (Jan 20 - July 22) **Principal DevOps Engineer** (Python, Golang for competitive programming)
@@ -40,6 +38,7 @@ Experience
 * Setup framework and onboard multiple existing/new projects with unit/integration testing.
 * Actively working with security on incident management from the DB cloud team side.
 * R&D on multiple new initiatives for the Cloud Database team.
+* **Mentor** to junior/mid-level level engineers.
 
 **State Street:** (April 2019 - Dec 2020) **Senior Associate - Assistant Manager** (Golang as first language)
 
@@ -85,6 +84,12 @@ Certifications
 
 ----
 
+References & Recommendations
+---------
+Please check my [LinkendIn](https://www.linkedin.com/in/amiedeep/) profile for references and recommendations from my colleague.
+
+----
+
 Education
 ---------
 
@@ -95,12 +100,6 @@ Education
 
 2011-2015
 :   **B.Tech, Computer Science and Engineering**; GNDU (Amritsar), India
-
-----
-
-References & Recommendations
----------
-Please check my [LinkendIn](https://www.linkedin.com/in/amiedeep/) profile for references and recommendations from my colleague.
 
 ----
 
