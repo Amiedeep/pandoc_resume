@@ -46,16 +46,16 @@ utilitydata.job.passes.collected={
   { 7, 0 },
  },
  ["itemgroup:itemize:2"]={
-  { 4, 0 },
+  { 1, 0 },
  },
  ["itemgroup:itemize:3"]={
-  { 8, 0 },
+  { 7, 0 },
  },
  ["itemgroup:itemize:4"]={
-  { 4, 0 },
+  { 1, 0 },
  },
  ["itemgroup:itemize:5"]={
-  { 6, 0 },
+  { 1, 0 },
  },
 }
 
@@ -169,7 +169,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 7, 4, 8, 4, 6 },
+  { 0, 7, 1, 7, 1, 1 },
  },
  ["linenote"]={
   { 0 },
@@ -178,16 +178,16 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["realpage"]={
-  { 3 },
+  { 2 },
  },
  ["subpage"]={
-  { 3 },
+  { 2 },
  },
  ["table"]={
   { 0 },
  },
  ["userpage"]={
-  { 3 },
+  { 2 },
  },
 }
 
@@ -309,7 +309,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=9,
-   ["realpage"]=3,
+   ["realpage"]=2,
    ["reference"]="references-recommendations",
    ["section"]=5,
   },
@@ -324,7 +324,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=10,
-   ["realpage"]=3,
+   ["realpage"]=2,
    ["reference"]="education",
    ["section"]=6,
   },
@@ -338,7 +338,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=11,
    ["order"]=5,
-   ["realpage"]=3,
+   ["realpage"]=2,
    ["section"]=6,
   },
   ["titledata"]={
@@ -350,7 +350,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=12,
    ["order"]=6,
-   ["realpage"]=3,
+   ["realpage"]=2,
    ["section"]=6,
   },
   ["titledata"]={
@@ -377,13 +377,6 @@ utilitydata.structures.pages.collected={
   ["prefixdata"]=17,
   ["state"]="start",
  },
- {
-  ["block"]="bodypart",
-  ["number"]=3,
-  ["numberdata"]=16,
-  ["prefixdata"]=17,
-  ["state"]="start",
- },
 }
 
 if not utilitydata.structures then utilitydata.structures = { } end
@@ -398,7 +391,6 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 utilitydata.structures.references.referred={
  { 1, 1 },
  { 2, 2 },
- { 3, 4 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end

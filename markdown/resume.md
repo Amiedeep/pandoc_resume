@@ -32,7 +32,7 @@ Experience
 
 **Getir:** (Mar 23 - Working) **Senior Platform Engineer**  (Berlin, Germany)
 
-Tech Stack: kubernetes, AWS, Golang, Vault, Argocd, Spinnaker, Backstage, Terraform, bitbucket pipelines, Helm, Newrelic, CDK, etc.
+Tech Stack: kubernetes, AWS, Golang, Vault, Argocd, Spinnaker, Backstage, Terraform, bitbucket pipelines, Helm, Newrelic, CDK, keycloak, etc.
 
 * Led CICD (Bitbucket, Spinnaker -> ArgoCD, **~800** services) and Engineering Experience team in Getir.
 * Led fixing and redesigning internal ephemeral environment creation tool (Bundler) from **1+ hour to 10 minutes**.
@@ -46,16 +46,12 @@ Tech Stack: kubernetes, AWS, Golang, Vault, Argocd, Spinnaker, Backstage, Terraf
 
 Tech Stack: kubernetes, AWS, Golang, Vault,Terraform, Github actions, Prometheus, etc.
 
-* IC on self-hosted GitHub Actions running on AWS Kubernetes cluster (EKS).
-* Active support for HelloTech on CICD in general.
-* Led the E2E testing initiative for platform related tools and code.
-* IC on automating resource provisioning in GitHub using terraform IAC.
+* IC on self-hosted GitHub Actions running on AWS Kubernetes cluster (EKS), active platform support, E2E testing initiative.
 
-**Oracle:** (Jan 20 - July 22) **Principal DevOps Engineer** (Bangalore, India)
+**Oracle:** (Jan 21 - July 22) **Principal DevOps Engineer** (Bangalore, India)
 
 Tech Stack: OCI, python, Terraform, Jenkins, Internal CICD and monitoring tools, etc.
 
-* Led the CI/CD team for multiple projects.
 * Moved the entire setup of CICD (Exadata DB automation) taking more than **12 hours to 1/2 hours asynchronous setup**.
 * Automating a comprehensive set of operations in the DB cloud for a faster feedback cycle.
 * IC on a JSON/YAML based input project to provision resources in the cloud (OCI).
@@ -68,23 +64,13 @@ Tech Stack: OCI, python, Terraform, Jenkins, Internal CICD and monitoring tools,
 
 Tech Stack: kubernetes, AWS, Golang, Concourse, Internal CD tools, etc.
 
-* Implemented a complete CI/CD solution for an internal Application from scratch using ConcourseCI considering developer productivity as the top priority.
-* Enabled a team in Artefacts management and Deployment on Kubernetes with sandbox environments for a faster feedback cycle.
-* Enabled a blockchain initiative at State Street from the DevOps perspective.
-* Implemented an Enterprise level observability stack including EFK, and Open Tracing running on
-  Kubernetes.
+* Led the team for CICD setup from scratch, ELK stack on Kubernetes, and IC on a blockchain initiative.
 
 **ThoughtWorks:** (Jan 2015 - April 2019) **Application Developer** (Gurugram, India)
 
 Tech Stack: kubernetes, AWS, Java, Spring boot, Ruby on rails, GOCD, Concourse, Terraform, ELK, Prometheus etc.
 
-* Helped in the automation of the calabash test suite for [Delta](https://www.thoughtworks.com/clients/delta) airlines.
-* Worked on a betting platform product with ~25 micro-services written in Ruby on Rails deployed
-  using Vagrant and Puppet.
-* Worked on a hospitality business in creating multiple UI's/single backend platform for all their franchise brands.
-* Worked on an internal platform of an investment bank to manage their Gift and Entertainment Services.
-* Worked and enabled a first-class blockchain platform [Vakt](https://www.thoughtworks.com/clients/vakt) from the DevOps side.
-* Worked end-to-end on an internal Application [Ramp up] of Thoughworks starting from analysis till deployment.
+* Tech consulting for multiple clients including [Delta](https://www.thoughtworks.com/clients/delta) airlines, [Vakt](https://www.thoughtworks.com/clients/vakt), Credit suisse, and football pools, etc.
 
 ----
 
