@@ -35,7 +35,7 @@ Experience
 Tech Stack: kubernetes, AWS, Golang, Vault, Argocd, Spinnaker, Backstage, Terraform, bitbucket pipelines, Helm, Newrelic, CDK, keycloak, etc.
 
 * Led CICD (Bitbucket, Spinnaker -> ArgoCD, **~800** services) and Engineering Experience team in Getir.
-* Led fixing and redesigning internal ephemeral environment creation tool (Bundler) from **1+ hour to 10 minutes**.
+* Led fixing and redesigning internal ephemeral environment creation on kubernetes tool from **1+ hour to 10 minutes**.
 * IC and maintenance on Service catalog (Backstage) for **~1000** engineers in the org.
 * EKS infra: Cluster upgrades, external-dns setup, Vault integration, etc.
 * Participated in a **OpenAI hackathon** in Turkey.
