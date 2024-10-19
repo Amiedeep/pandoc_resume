@@ -46,15 +46,12 @@ utilitydata.job.passes.collected={
   { 7, 0 },
  },
  ["itemgroup:itemize:2"]={
-  { 1, 0 },
- },
- ["itemgroup:itemize:3"]={
   { 7, 0 },
  },
- ["itemgroup:itemize:4"]={
+ ["itemgroup:itemize:3"]={
   { 1, 0 },
  },
- ["itemgroup:itemize:5"]={
+ ["itemgroup:itemize:4"]={
   { 1, 0 },
  },
 }
@@ -169,7 +166,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 7, 1, 7, 1, 1 },
+  { 0, 7, 7, 1, 1 },
  },
  ["linenote"]={
   { 0 },
@@ -250,23 +247,11 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=11,
-  ["references"]={
-   ["internal"]=5,
-   ["order"]=3,
-   ["realpage"]=1,
-   ["section"]=2,
-  },
-  ["titledata"]={
-   ["title"]="Open Source",
-  },
- },
- {
   ["metadata"]=9,
   ["numberdata"]=12,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=6,
+   ["internal"]=5,
    ["realpage"]=1,
    ["reference"]="experience",
    ["section"]=3,
@@ -281,7 +266,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=13,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=7,
+   ["internal"]=6,
    ["realpage"]=2,
    ["reference"]="certifications",
    ["section"]=4,
@@ -294,8 +279,8 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=11,
   ["references"]={
-   ["internal"]=8,
-   ["order"]=4,
+   ["internal"]=7,
+   ["order"]=3,
    ["realpage"]=2,
    ["section"]=4,
   },
@@ -308,7 +293,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=14,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=9,
+   ["internal"]=8,
    ["realpage"]=2,
    ["reference"]="references-recommendations",
    ["section"]=5,
@@ -323,7 +308,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=15,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=10,
+   ["internal"]=9,
    ["realpage"]=2,
    ["reference"]="education",
    ["section"]=6,
@@ -336,8 +321,8 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=11,
   ["references"]={
-   ["internal"]=11,
-   ["order"]=5,
+   ["internal"]=10,
+   ["order"]=4,
    ["realpage"]=2,
    ["section"]=6,
   },
@@ -348,8 +333,8 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=11,
   ["references"]={
-   ["internal"]=12,
-   ["order"]=6,
+   ["internal"]=11,
+   ["order"]=5,
    ["realpage"]=2,
    ["section"]=6,
   },
@@ -389,8 +374,7 @@ if not utilitydata.structures then utilitydata.structures = { } end
 if not utilitydata.structures.references then utilitydata.structures.references = { } end
 
 utilitydata.structures.references.referred={
- { 1, 1 },
- { 2, 2 },
+ { 2, 1 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
