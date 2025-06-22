@@ -21,23 +21,16 @@ Experienced With:
 :   **Telemetry:** EFFK Stack.
 :   **Others:**  Data structures, Algorithms
 
+Open Source
+:   Please visit my [GitHub](https://github.com/Amiedeep) profile for my side projects, and  
+    **Open Source contributions**
+
 ----
 
 Experience
 ----------
 
-**Groww:** (Nov 24 - ) **SDE-4 DevOps**  (Bangalore, India)
-
-Tech Stack: kubernetes, GCP, Golang, Argo, Terraform, Helm, Confluent, etc.
-
-* Led a change timeline project from scratch at Groww.
-* Established a platform engineering mindset and processes at Groww.
-* Set up Infrastructure as Code (IaC) for Kafka to Confluent migration.
-* Provided Continuous Delivery (CD) support and took ownership across the organization.
-* Led the team as both a Tech Lead and Engineering Manager.
-* Initiated and led a cost optimization initiative for the Infra Platform team.
-
-**Career Break:** (August 24 - Oct 24) (Bangalore, India)
+**Career Break:** (August 24 - ) (Bangalore, India)
 
 **Getir:** (Mar 23 - July 24) **Senior Platform Engineer**  (Berlin, Germany)
 
@@ -45,7 +38,7 @@ Tech Stack: kubernetes, AWS, Golang, Vault, Argocd, Spinnaker, Backstage, Terraf
 
 * EKS infra: Cluster upgrades, external-dns setup, Vault integration, etc.
 * Led CICD (Bitbucket, Spinnaker -> ArgoCD, **~800** services) and Engineering Experience team in Getir.
-* Led fixing and redesigning internal ephemeral environment creation on kubernetes from **1+ hour to 10 minutes** saving **~93.5%** in cost.
+* Led fixing and redesigning internal ephemeral environment creation on kubernetes from **1+ hour to 10 minutes**.
 * IC and maintenance on Service catalog (Backstage) for **~1000** engineers in the org.
 * Built a tool for answering platform support questions in a **OpenAI hackathon** in Turkey.
 * Active support for the Product teams in Getir using inhouse built tooling (Piebot).
@@ -55,7 +48,7 @@ Tech Stack: kubernetes, AWS, Golang, Vault, Argocd, Spinnaker, Backstage, Terraf
 
 Tech Stack: OCI, python, Terraform, Jenkins, Internal CICD and monitoring tools, etc.
 
-* Moved the entire setup of CICD (Exadata DB automation) taking more than **12 hours to 1/2 hours asynchronous setup** saving **~20k USD or 93.5%** each execution.
+* Moved the entire setup of CICD (Exadata DB automation) taking more than **12 hours to 1/2 hours asynchronous setup**.
 * Automating a comprehensive set of operations in the DB cloud for a faster feedback cycle.
 * IC on a JSON/YAML based input project to provision resources in the cloud (OCI).
 * Setup framework and onboarded multiple existing/new projects with unit/integration testing.
