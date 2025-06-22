@@ -3,7 +3,7 @@ Amandeep Singh
 
 ----
 
-> A seasoned DevOps Engineer with **~10 years of** experience in India and Germany, recognized for a strong **test-first 
+> A seasoned **Platform Engineer** with **~10 years of** experience in India and Germany, recognized for a strong **test-first 
 > mindset** and integrating **CI/CD** pipelines. Proficient in deploying, and managing scalable systems using tools like 
 > Docker, Kubernetes, etc. 
 
@@ -26,7 +26,7 @@ Experienced With:
 Experience
 ----------
 
-**Groww:** (Nov 24 - ) **SDE-4 DevOps**  (Bangalore, India)
+**Groww:** (August 2024 - ) **SDE-4 DevOps**  (Bangalore, India)
 
 Tech Stack: kubernetes, GCP, Golang, Argo, Terraform, Helm, Confluent, etc.
 
@@ -37,9 +37,7 @@ Tech Stack: kubernetes, GCP, Golang, Argo, Terraform, Helm, Confluent, etc.
 * Led the team as both a Tech Lead and Engineering Manager.
 * Initiated and led a cost optimization initiative for the Infra Platform team.
 
-**Career Break:** (August 24 - Oct 24) (Bangalore, India)
-
-**Getir:** (Mar 23 - July 24) **Senior Platform Engineer**  (Berlin, Germany)
+**Getir:** (Mar 2023 - July 2024) **Senior Platform Engineer**  (Berlin, Germany)
 
 Tech Stack: kubernetes, AWS, Golang, Vault, Argocd, Spinnaker, Backstage, Terraform, bitbucket pipelines, Helm, Newrelic, CDK, keycloak, etc.
 
@@ -51,7 +49,7 @@ Tech Stack: kubernetes, AWS, Golang, Vault, Argocd, Spinnaker, Backstage, Terraf
 * Active support for the Product teams in Getir using inhouse built tooling (Piebot).
 * Led multi account initiative in the Org.
 
-**Oracle:** (Jan 21 - July 22) **Principal DevOps Engineer** (Bangalore, India)
+**Oracle:** (Jan 2021 - July 2022) **Principal DevOps Engineer** (Bangalore, India)
 
 Tech Stack: OCI, python, Terraform, Jenkins, Internal CICD and monitoring tools, etc.
 
@@ -83,14 +81,6 @@ Certifications
 2020-2023
 :   **Certified Kubernetes Administrator**; Linux Foundation
 
-    **Credentials:** LF-ipxdcfqgi3
-
-----
-
-References & Recommendations
----------
-Please check my [LinkedIn](https://www.linkedin.com/in/amiedeep/details/recommendations/?detailScreenTabIndex=0) profile for references and recommendations from my colleague.
-
 ----
 
 Education
@@ -106,5 +96,5 @@ Education
 
 ----
 
-> <Amandeep11121993@gmail.com> • +91-9803972479 • Senior Platform Engineer\
+> <Amandeep11121993@gmail.com> • +91-9803972479 • [LinkedIn](https://www.linkedin.com/in/amiedeep/details/recommendations/?detailScreenTabIndex=0) \
 > Bangalore, India
